@@ -91,17 +91,12 @@ const SUBGRAPH_URLS: Record<string, { decentralized: string }> = {
   // Scroll, verifieable on https://docs.sushi.com/subgraphs/clamm
   "534352": {
     decentralized:
-      "https://gateway.thegraph.com/api/[api-key]/subgraphs/id/CiW3nquNZjKDoMfR4TbSpB4ox8Pq66FDxwSsohigSdxw",
+      "https://gateway.thegraph.com/api/[api-key]/deployments/id/QmZkX4zi2RzLsQKva29gE3uCcMuJVxXE3R11Ln1J3FY3f7",
   },
   // Linea, verifieable on https://docs.sushi.com/subgraphs/clamm
   "59144": {
     decentralized:
-      "https://gateway.thegraph.com/api/[api-key]/subgraphs/id/G4sRz1YAcEFYFewGLQ9bt76gQuP1oyuzhVSTvs9bj7qn",
-  },
-  // Harmony, verifieable on https://docs.sushi.com/subgraphs/clamm
-  "1666600000": {
-    decentralized:
-      "https://gateway.thegraph.com/api/[api-key]/subgraphs/id/3k9M7aZqeJXWLUogc2FSFBgXuxej2qstKSUNBXcPCcK5",
+      "https://gateway.thegraph.com/api/[api-key]/deployments/id/QmWYpVMcyczvRvpzLpw5R7tKWouFLEzmufN55jnrNWmpth",
   },
 };
 
