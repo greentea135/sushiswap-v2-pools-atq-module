@@ -6,87 +6,62 @@ const SUBGRAPH_URLS: Record<string, { decentralized: string }> = {
   // Ethereum Mainnet, verifieable on https://docs.sushi.com/subgraphs/cpamm
   "1": {
     decentralized:
-      "https://gateway.thegraph.com/api/[api-key]/subgraphs/id/GyZ9MgVQkTWuXGMSd3LXESvpevE8S8aD3uktJh7kbVmc",
+      "https://gateway.thegraph.com/api/[api-key]/deployments/id/QmaR2nAMF6dCHBL1eFNQ4F5nGpJQs7V11PZobJB2FgQtbt",
   },
   // Optimism, verifieable on https://docs.sushi.com/subgraphs/cpamm
   "10": {
     decentralized:
-      "https://gateway.thegraph.com/api/[api-key]/subgraphs/id/4KvWjKY89DefJ6mPMASCTUDAZ6dyHSu7osCNQqaaaY3y",
+      "https://gateway.thegraph.com/api/[api-key]/deployments/id/QmZWaFzzzs7CEzpVeLrNqW6e7oNxG8AnkJt9kUEV5rFzxn",
   },
   // BSC, verifieable on https://docs.sushi.com/subgraphs/cpamm
   "56": {
     decentralized:
-      "https://gateway.thegraph.com/api/[api-key]/subgraphs/id/24xqSifM5xPfGrW8MDwRhgaDsq7uaP2762fmxjyxJzot",
+      "https://gateway.thegraph.com/api/[api-key]/deployments/id/QmQ3b4S6PSgvRkd5PhxtDPDQRybfmaRYxGVZCLbYJopoKJ",
   },
   // Gnosis, verifieable on https://docs.sushi.com/subgraphs/cpamm
   "100": {
     decentralized:
-      "https://gateway.thegraph.com/api/[api-key]/subgraphs/id/7czeiia7ZXvsW45szX2w8EK1ZNgZWZET83zYCwE6JT9x",
-  },
-  // Fuse, verifieable on https://docs.sushi.com/subgraphs/cpamm
-  "122": {
-    decentralized:
-      "https://gateway.thegraph.com/api/[api-key]/subgraphs/id/8qfWFvy7htKeuaMVVqHa7FCAK41e2RkquWizuWuLpgZF",
+      "https://gateway.thegraph.com/api/[api-key]/deployments/id/QmU7USviTB8LtJ9tkPjZLcretNnYyUWzwDy9N7zTupNYj2",
   },
   // Polygon, verifieable on https://docs.sushi.com/subgraphs/cpamm
   "137": {
     decentralized:
-      "https://gateway.thegraph.com/api/[api-key]/subgraphs/id/8obLTNcEuGMieUt6jmrDaQUhWyj2pys26ULeP3gFiGNv",
+      "https://gateway.thegraph.com/api/[api-key]/deployments/id/QmcFVSFXGgodMVUGLAdYdYPfohyMwWat8pfi5pHSDXgskU",
   },
   // Sonic, verifieable on https://docs.sushi.com/subgraphs/cpamm
   "146": {
     decentralized:
-      "https://gateway.thegraph.com/api/[api-key]/subgraphs/id/DiS2ZgxR2upUs1s21wviEaY7hwjRWyrphhoBgKNc1Boo",
+      "https://gateway.thegraph.com/api/[api-key]/deployments/id/QmTnVXE9wVJRDaxNdW1hnvzi8Cj1XBv3cMGXz6gHLacMVJ",
   },
   // Fantom, verifieable on https://docs.sushi.com/subgraphs/cpamm
   "250": {
     decentralized:
-      "https://gateway.thegraph.com/api/[api-key]/subgraphs/id/J7wEPt9nDHCno143dk6whAUesPyszxPqCDKhqDqWJHuz",
+      "https://gateway.thegraph.com/api/[api-key]/deployments/id/QmbitwNMFxEcJVtZyTcLYr2GrQSLg99rpZZmmD2m13xRp2",
   },
   // Boba, verifieable on https://docs.sushi.com/subgraphs/cpamm
   "288": {
     decentralized:
-      "https://gateway.thegraph.com/api/[api-key]/subgraphs/id/9cssJAh4EyzEWqZySBFguiXyygwZZAGBE3ETsGetNUK",
-  },
-  // Polygon zkEVM, verifieable on https://docs.sushi.com/subgraphs/clamm
-  "1101": {
-    decentralized:
-      "https://gateway.thegraph.com/api/[api-key]/subgraphs/id/6QS4nmWq9Wv6WPQRk1F7RJnnKcAcUBhzaiF9ZHfkUcp4",
-  },
-  // Moonrbeam, verifieable on https://docs.sushi.com/subgraphs/clamm
-  "1284": {
-    decentralized:
-      "https://gateway.thegraph.com/api/[api-key]/subgraphs/id/6MMVBsG9hgS8BzLZfPnU8KJdGiEFbd3CyNXVG6gQKCdQ",
-  },
-  // Moonriver, verifieable on https://docs.sushi.com/subgraphs/clamm
-  "1285": {
-    decentralized:
-      "https://gateway.thegraph.com/api/[api-key]/subgraphs/id/DuB755c1VYFSLLhq4b783ryPcvYdsvimGuZzBpFqoapX",
+      "https://gateway.thegraph.com/api/[api-key]/deployments/id/QmYzLBMamDBWJWsUNFiRfq91w2H38SAf9jXyCYDTzhyHh3",
   },
   // Base, verifieable on https://docs.sushi.com/subgraphs/clamm
   "8453": {
     decentralized:
-      "https://gateway.thegraph.com/api/[api-key]/subgraphs/id/7pXNLCc12pRM3bBPUAP9ZoEvkgUCjaBe9QC3DV9L2qzE",
+      "https://gateway.thegraph.com/api/[api-key]/deployments/id/QmQfYe5Ygg9A3mAiuBZYj5a64bDKLF4gF6sezfhgxKvb9y",
   },
   // Arbitrum One, verifieable on https://docs.sushi.com/subgraphs/clamm
   "42161": {
     decentralized:
-      "https://gateway.thegraph.com/api/[api-key]/subgraphs/id/8yBXBTMfdhsoE5QCf7KnoPmQb7QAWtRzESfYjiCjGEM9",
+      "https://gateway.thegraph.com/api/[api-key]/deployments/id/QmfN96hDXYtgeLsBv5WjQY8FAwqBfBFoiq8gzsn9oApcoU",
   },
   // Celo, verifieable on https://docs.sushi.com/subgraphs/clamm
   "42220": {
     decentralized:
-      "https://gateway.thegraph.com/api/[api-key]/subgraphs/id/8WcZLSs8QUSJptPbpBScoDafmp8E9whnSqYJc9TMyYFs",
-  },
-  // Hemi, verifieable on https://docs.sushi.com/subgraphs/clamm
-  "43111": {
-    decentralized:
-      "https://gateway.thegraph.com/api/[api-key]/subgraphs/id/2Dt3D9Mkvhbp7YGRZ75GZUxcqH9vz5dbdiWkU7Sp7NNV",
+      "https://gateway.thegraph.com/api/[api-key]/deployments/id/QmNxrypMUwDagUwxcBDPPebNx4ZPZ3XGJ2cdaejAjXg735",
   },
   // Avalanche C-Chain, verifieable on https://docs.sushi.com/subgraphs/clamm
   "43114": {
     decentralized:
-      "https://gateway.thegraph.com/api/[api-key]/subgraphs/id/5DpWu6oLUEwKYLcya5fJf3MW5CE6yEMnZ8iwekmTNAbV",
+      "https://gateway.thegraph.com/api/[api-key]/deployments/id/QmadNP3fXrcba189BuSrT88Tw7YHhTtHWsdBTQhNpyaF6c",
   },
   // Scroll, verifieable on https://docs.sushi.com/subgraphs/clamm
   "534352": {
